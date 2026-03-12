@@ -17,7 +17,7 @@ int main() {
 
 // comentários sobre o código 
 // printf("texto", variavel)
-// %s significa que é um texto
-// %d significa que é um número
-// %.2f significa que é um número decimal com duas casas e é variável
-// %1lf significa variável e _Decimal
+// %s significa que é um texto - especificador de formato
+// %d significa que é um número- especificador de formato
+// %.2f significa que é um número decimal com duas casas e é variável- especificador de formato
+// %1lf significa variável e decimal- especificador de formato
